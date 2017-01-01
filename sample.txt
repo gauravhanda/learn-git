@@ -5,3 +5,4 @@ This commit is done when there is stashed checkin present. This is thus a sixth 
 This is ready for fifth checkin
 This is seventh checkin
 This is a git checkout example
+This is committed by checkout
