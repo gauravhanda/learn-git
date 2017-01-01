@@ -1,3 +1,4 @@
+Revert changes
 This is sample file
 This is a second change
 This is the fourth checkin which has been added using git commit sample.txt when there was another version in the staged area.
