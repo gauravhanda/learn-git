@@ -6,3 +6,5 @@ This is ready for fifth checkin
 This is seventh checkin
 This is a git checkout example
 This is committed by checkout
+
+This is again a checking
