@@ -4,3 +4,4 @@ This is the fourth checkin which has been added using git commit sample.txt when
 This commit is done when there is stashed checkin present. This is thus a sixth change 
 This is ready for fifth checkin
 This is seventh checkin
+This is a git checkout example
