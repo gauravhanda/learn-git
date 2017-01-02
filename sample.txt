@@ -7,3 +7,4 @@ This is ready for fifth checkin
 This is seventh checkin
 This is a git checkout example
 This is committed by checkout
+This will have a missed commiting merged late6r
