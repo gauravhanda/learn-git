@@ -1,1 +1,2 @@
 Master first changed
+This is a sample
