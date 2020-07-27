@@ -10,3 +10,4 @@ This is committed by checkout
 This will have a missed commiting merged late6r
 This comes from hotfix branch
 This is another chane
+Thisis fix 2
