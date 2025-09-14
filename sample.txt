@@ -1,13 +1,1 @@
-Revert changes
-This is sample file
-This is a second change
-This is the fourth checkin which has been added using git commit sample.txt when there was another version in the staged area.
-This commit is done when there is stashed checkin present. This is thus a sixth change 
-This is ready for fifth checkin
-This is seventh checkin
-This is a git checkout example
-This is committed by checkout
-This will have a missed commiting merged late6r
-This comes from hotfix branch
-This is another chane
-Thisis fix 2
+Added code to merge the changes for 09/30
